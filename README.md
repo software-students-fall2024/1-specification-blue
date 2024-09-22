@@ -21,7 +21,11 @@ See instructions. Delete this line and replace with the name(s) of the stakehold
 See instructions. Delete this line and place your Product Vision Statement here.
 
 ## User Requirements
-
+1. As a student customer, I want to sign up so that I can start searching for furnitures.
+2. As a student seller, I want to sign up so that I can start selling my furniture.
+3. As a student customer, I want to search for desks so that I can view results specifically for desks.
+4. As a student seller, I want to upload pictures and details of my furniture so that my furniture becomes visible to customers.
+5. As a student customer, I want to message the seller of the desk so that I can buy the furniture.
 6. As a student seller, I want to price and list details of my items so customers know exactly what it is.
 7. As a student customer, I want to be able to filter by price so I can find items in my budget.
 8. As a student customer, I want to be able to locate items by location so I can see what is near me.  
@@ -30,8 +34,11 @@ See instructions. Delete this line and place your Product Vision Statement here.
 
 ## Activity Diagrams
 
-See instructions. Delete this line and place images of your UML Activity diagrams here.
+- As a student customer, I want to sign up so that I can start searching for furnitures.
+
 ![activity1](https://github.com/user-attachments/assets/b44f5cf9-e57c-4d8f-9e9e-f612ba7eb605)
+
+- As a student seller, I want to upload pictures and details of my furniture so that my furniture becomes visible to customers.
 
 ![activity2](https://github.com/user-attachments/assets/8665ceb8-f9b1-4827-8743-76f8ce4bd874)
 
