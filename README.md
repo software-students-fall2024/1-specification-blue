@@ -5,8 +5,11 @@ A little exercise to get started with the specification phase of the software de
 ## Team members
 
 Fatima Villena - https://github.com/favils
+
 Chloe - 
+
 Stephen -
+
 Madison -
 
 ## Stakeholders
@@ -19,7 +22,11 @@ See instructions. Delete this line and place your Product Vision Statement here.
 
 ## User Requirements
 
-See instructions. Delete this line and place a list of your User Stories here.
+6. As a student seller, I want to price and list details of my items so customers know exactly what it is.
+7. As a student customer, I want to be able to filter by price so I can find items in my budget.
+8. As a student customer, I want to be able to locate items by location so I can see what is near me.  
+9. As a student seller, I want my information to be hidden and not accessible by customers.
+10. As a student seller, I want to be able to have safe and secure transactions online.
 
 ## Activity Diagrams
 
