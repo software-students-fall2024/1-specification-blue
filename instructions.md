@@ -46,6 +46,10 @@ Write at least 10 user stories into the `README.md` file in the appropriate plac
 
 Draw UML Activity Diagrams showing how a user uses the app to fulfill two of the user stories, from start to finish.
 
+![activity1](https://github.com/user-attachments/assets/385747f7-0315-4c40-a847-1e0378f1525a)
+
+![activity2](https://github.com/user-attachments/assets/33e95483-9d07-4046-a8a8-889486b9e4de)
+
 For each diagram, place the text of the corresponding user story and an image of the Activity Diagram into the `README.md` file in the appropriate place.
 
 ## Wireframe diagrams
