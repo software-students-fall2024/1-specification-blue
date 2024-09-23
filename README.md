@@ -45,4 +45,4 @@ See instructions. Delete this line and place your Product Vision Statement here.
 
 ## Clickable Prototype
 
-See instructions. Delete this line and place a publicly-accessible link to your clickable prototype here.
+Prototype link: https://www.figma.com/proto/Fv0pgEHWsrpvlgpjVqHG53/Marketplace?node-id=0-1&t=IQDTZSARNK6RQ3Ka-1
