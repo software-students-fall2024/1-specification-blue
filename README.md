@@ -58,11 +58,11 @@ Timeframe when the seller is available to sell or swap that maybe you can filter
 
 - **As a student customer**, I want to sign up so that I can start searching for furniture.
 
-<img src="https://github.com/user-attachments/assets/b44f5cf9-e57c-4d8f-9e9e-f612ba7eb605" alt="activity1" width="400"/>
+<center><img src="https://github.com/user-attachments/assets/b44f5cf9-e57c-4d8f-9e9e-f612ba7eb605" alt="activity1" height="600"/></center>
 
 - **As a student seller**, I want to upload pictures and details of my furniture so that my furniture becomes visible to customers.
 
-<img src="https://github.com/user-attachments/assets/8665ceb8-f9b1-4827-8743-76f8ce4bd874" alt="activity2" width="400"/>
+<center><img src="https://github.com/user-attachments/assets/8665ceb8-f9b1-4827-8743-76f8ce4bd874" alt="activity2" width="700"/></center>
 
 
 ## Clickable Prototype
