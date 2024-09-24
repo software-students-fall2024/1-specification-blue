@@ -6,13 +6,25 @@ A little exercise to get started with the specification phase of the software de
 
 - Fatima Villena - [GitHub](https://github.com/favils)
 - Chloe - [GitHub](https://github.com/jh7316)
-- Stephen - [Github](linkhere)
+- Stephen - [Github](https://github.com/StephenS2021/)
 - Madison - [GitHub](https://github.com/mkphung29)
 
 
-## Stakeholders
+## Stakeholder Interview 
 
-See instructions. Delete this line and replace with the name(s) of the stakeholder(s) you interviewed and lists showing their goals/needs, and problems/frustrations.
+### Goals/needs
+- Choose to interact with buyers/sellers from a specific college/university or select all nearby colleges - maybe use a filter.
+- Requires pictures of items, location(maybe dorms?), and price (maybe allow swapping of items). Can include measurements, color descriptions too 
+Timeframe when the seller is available to sell or swap that maybe you can filter by
+- Notifications for prices, something you were looking at sells
+- Profile includes what college the buyer/seller goes to
+### Problems
+- Not selling your item by the time you need or want because your listing is lost in the feed (fix by filtering when/where you are looking for something or by matching descriptions of what the user is looking for)
+- First come first serve vs bidding wars (maybe seller sets “buy now” price and users can offer lower bids)
+- Visually appealing ui to keep users from being bored/understimulated
+- Difficulty moving large furniture, images can be deceiving. Maybe add weight estimate/weight rating system to help users plan around moving
+- If the user feels deceived by a post they will be less likely to use the app even if it is not the apps fault
+
 
 ## Product Vision Statement
 
