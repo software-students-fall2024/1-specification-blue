@@ -8,7 +8,7 @@ Fatima Villena - https://github.com/favils
 
 Chloe - 
 
-Stephen -
+Stephen - https://github.com/StephenS2021
 
 Madison -
 
@@ -18,7 +18,7 @@ See instructions. Delete this line and replace with the name(s) of the stakehold
 
 ## Product Vision Statement
 
-See instructions. Delete this line and place your Product Vision Statement here.
+Bring students together to buy, sell, trade, and give away.
 
 ## User Requirements
 1. As a student customer, I want to sign up so that I can start searching for furnitures.
