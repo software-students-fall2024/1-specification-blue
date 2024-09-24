@@ -4,7 +4,7 @@ A little exercise to get started with the specification phase of the software de
 
 ## Team members
 
-- **Fatima Villena **- [GitHub](https://github.com/favils)
+- **Fatima Villena** - [GitHub](https://github.com/favils)
 - **Chloe** - [GitHub](https://github.com/jh7316)
 - **Stephen** - [Github](https://github.com/StephenS2021/)
 - **Madison** - [GitHub](https://github.com/mkphung29)
@@ -62,7 +62,7 @@ Timeframe when the seller is available to sell or swap that maybe you can filter
 
 - **As a student seller**, I want to upload pictures and details of my furniture so that my furniture becomes visible to customers.
 
-<center><img src="https://github.com/user-attachments/assets/8665ceb8-f9b1-4827-8743-76f8ce4bd874" alt="activity2" width="700"/></center>
+<center><img src="https://github.com/user-attachments/assets/8665ceb8-f9b1-4827-8743-76f8ce4bd874" alt="activity2" width="600"/></center>
 
 
 ## Clickable Prototype
