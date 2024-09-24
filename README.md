@@ -4,13 +4,11 @@ A little exercise to get started with the specification phase of the software de
 
 ## Team members
 
-Fatima Villena - https://github.com/favils
+- Fatima Villena - [GitHub](https://github.com/favils)
+- Chloe - [GitHub](https://github.com/jh7316)
+- Stephen - [Github](linkhere)
+- Madison - [GitHub](https://github.com/mkphung29)
 
-Chloe - 
-
-Stephen - https://github.com/StephenS2021
-
-Madison -
 
 ## Stakeholders
 
@@ -21,6 +19,7 @@ See instructions. Delete this line and replace with the name(s) of the stakehold
 Bring students together to buy, sell, trade, and give away.
 
 ## User Requirements
+
 1. As a student customer, I want to sign up so that I can start searching for furnitures.
 2. As a student seller, I want to sign up so that I can start selling my furniture.
 3. As a student customer, I want to search for desks so that I can view results specifically for desks.
@@ -45,4 +44,5 @@ Bring students together to buy, sell, trade, and give away.
 
 ## Clickable Prototype
 
-See instructions. Delete this line and place a publicly-accessible link to your clickable prototype here.
+[Wireframe](https://www.figma.com/design/Fv0pgEHWsrpvlgpjVqHG53/Marketplace?node-id=0-1&t=4c5Vmabhu2QZVlB0-)
+[Prototype](https://www.figma.com/proto/Fv0pgEHWsrpvlgpjVqHG53/Marketplace?node-id=0-1&t=IQDTZSARNK6RQ3Ka-1)
