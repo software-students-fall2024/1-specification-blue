@@ -6,7 +6,7 @@ A little exercise to get started with the specification phase of the software de
 
 Fatima Villena - https://github.com/favils
 
-Chloe - 
+Chloe - https://github.com/jh7316
 
 Stephen -
 
